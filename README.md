@@ -62,4 +62,3 @@ Built as part of "Generative AI for Data Engineers" specialization (IBM/Coursera
 📫 **Reach me**: adekola.adegboro@gmail.com
 ```
 
-**Copy everything above including the `# 🧹 Universal Data Cleaner` at the top and the email at the bottom.** Paste it into your README.md file. 🚀
